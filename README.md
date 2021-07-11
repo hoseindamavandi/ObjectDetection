@@ -5,6 +5,6 @@ Object Detection by ContourFinder in openCV
 
 ![output](https://user-images.githubusercontent.com/83751182/125184978-2a8e9c80-e237-11eb-8660-b2373c18d509.png)
 
-**fill holes:**
+**Fill Holes:**
 
 ![output](https://user-images.githubusercontent.com/83751182/125191960-6edf6400-e25a-11eb-870d-714a98751a85.png)
