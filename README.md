@@ -1,2 +1,2 @@
-# Object-Detection---image-processing
+# Object Detection - Image Processing
 Object Detection by ContourFinder in openCV
